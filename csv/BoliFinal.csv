@@ -1,0 +1,1363 @@
+ID,NumeBoala,AnalizeNecesare
+ANE001,Anemie Hemolitică Congenitală,HGB001
+ANE002,Anemie Aplastică,HGB001; LIM009; MPV014; FIE031; NUM185; SID110
+HEM003,Hemoragie Severă/Cronică,HGB001; NUM013; MPV014
+HEM004,Hemoglobinopatie,HGB001; HCT002; RBC003
+MAL005,Malnutriție,HGB001; HCT002; RBC003; WBC007; LIM009; ALB021; CAL027; FIB030; FOS032; HDL035; LDL037; MAG039; PRO041; TRI043; URE044; ACI045; FER049; PLA052; ALF058; CON064; CON064; FOS066; POT075; HOR085; APO114; APO116; COL0117; DET123; CAL188; BET234; PRO186; PRE157
+INF006,Infecții Cronice,HGB001; MCV004; FIE031; PRO041; ELE176; ELE180; NUM185; GAM235; SID110
+AFE007,Afecțiuni Renale,HGB001; ACI079; ERI081; FAC181
+SPL008,Splenomegalie,HGB001; TIM053
+SAR009,Sarcoidoză,HGB001; MON010; CAL027; FOS032; ENZ065; FOS066; CRI175; ELE179; FAC181; CAL188; PAR155
+LUP010,Lupus Eritematos Sistemic,HGB001; NEU008; MON010; EOZ011; APT016; MAG039; PTT111; ANT164; ANT162
+NEO011,Neoplasme,HGB001; MCV004; WBC007; NEU008; MON010; NUM013; VSH015; FIB030; FIE031; PRO041; ACI045; DIM048; HAP051; ACI057; PRO184; NUM185; GAM235; ANT047; ANT164; PRO186; PRE157; COM176; SID110
+LIM012,Limfoame,HGB001; LIM009; NUM013; LDH036; FOS066; TES131; CRI175; BET227; BET227
+MED013,Medicamente,HGB001; HCT002; RBC003; VSH015; TIM018; TIM019; ACI020; AST024; BIL025; CAL027; CAL027; CRE029; CRE029; FIE031; GLI034; GLI034; LDL037; LIP038; POT040; POT040; SOD042; SOD042; TRI043; TRI043; PTT111; SUM142; CAL188; CAL188; ANT164; AMI023
+HEM014,Hemoconcentrație,HGB001
+ALT015,Altitudine înaltă,HGB001; HCT002; RBC003
+POL016,Policitemia Vera,HGB001; HCT002; RBC003; WBC007; MON010; BAZ012; NUM013; VIT055; ERI081; ERI081; SID110
+BOA017,Boala Pulmonară Obstructivă,HGB001
+ARS018,Arsuri Severe,HGB001; ALT022; AST024; LDL037; MAG039; ASP060
+DES019,Deshidratare,HGB001; HCT002; RBC003; ALB021; CRE029; MAG039; POT040; PRO041; URE044; CLO062; CON064; POT075; SOD077; SUM137; SUM141; HOR154
+BOL020,Boli Cardiace Congenitale,HGB001; HCT002; RBC003
+ADM021,Administrare de Glucocorticosteroizi,HGB001; RBC003
+ANE022,Anemie,HCT002; RBC003; NEU008; BIL026; CLO062; GAZ127; DIS108
+HEM023,Hemoliză,HCT002; RBC003; NEU008; ACI020; POT040; PRO041; TIM053; TIM053; ALF233
+HEM024,Hemoragie,HCT002; RBC003; HAP051; TIM053; ACT256; ALD257; ALD257; ALD257
+DEF025,Deficit de Fier,HCT002; FIE031; SID110
+INS026,Insuficiență Medulară,HCT002; WBC007; MPV014; TIM019; ERI081; NUM185; VIR217
+SAR027,Sarcină,HCT002; RBC003; WBC007; VSH015; ALB021; AST024; COL028; CRE029; FIB030; GGT033; GLI034; MAG039; PRO041; TRI043; URE044; ACI045; DIM048; FER049; PLA052; VIT055; ASP060; CET080; TIR091; FAC103; APO113; APO114; SOM158; TRI161; NUM185; HEM231; MAR272; PRO186; GAZ124; GAZ134; GAZ125; GAZ132; PRE157; COM175; MAR271; MAR274; MAR275; GLI068; ALD257; ALD257; ALD257
+HIP028,Hipertiroidie,HCT002; BAZ012; CAL027; GGT033; HDL035; PRO041; TRI043; FER049; GLU050; ENZ065; GAM067; HID084; IND086; TIR091; APO114; CAL188; TIR190; ALF233; ANT254; DIS108; TES261; IMU183; MAR271; MAR274; MAR275; TES242; COR152
+CIR029,Ciroză Hepatică,HCT002; MON010; NUM013; TIM017; TIM018; AST024; BIL026; FOS032; GGT033; TRI043; TIM054; ASP060; TIR090; TIR091; LEU134; PEP135; SOM158; FAC181; NUM185; MAR230; ANT254; COM174; ACT256; TES242
+POL030,Poliartrită reumatoidă,HCT002; RBC003; WBC007; NUM013; ACI020; FOS032; MIO072; ANT096; ANT097; ANT098; ANT169; ANT170; ANT172; CRI175; ELE179; FAC181; COM174; COM175; AGL046
+MIE031,Mielom Multiplu,HCT002; RBC003; LIM009; ACI020; LDL037; MAG039; PRO041; CLO062; FOS066; PRO076; ANT098; CRI175; ELE179; FOS228; GAM235; SUM138; SUM140; SUM141; AGL046
+LEU032,Leucemie,HCT002; RBC003; WBC007; LIM009; NUM013; APT016; TIM019; FER049; TIM054; VIT055; ANT096; PTT111; CRI175; ELE179; ELE180; FAC181; NUM185; AGL046; BET227; BET227
+INF033,Infecție cu Mycoplasmă pneumoniae,AGL046
+DES034,Deshidratare Severă,HCT002
+ERI035,Eritrocitoză,HCT002
+DIA036,Diaree Severă,HCT002; CON064; GAZ124; GAZ134
+ECL037,Eclampsie,HCT002; NEU008; FIB030; PLA052; CLO062; SUM152
+ARS038,Arsuri,HCT002; NEU008; LIM009; NUM013; ACI020; POT040; URE044; HAP051; CLO062; GLU083; COM174; AMI023
+HIP039,Hiperglicemie,HCT002; HOR085
+BOA040,Boala Pulmonară Cronică Obstructivă,HCT002
+HID041,Hidratare în Exces,RBC003; URE044; CLO062
+INS042,Insuficiență renală,RBC003; TIM017; LIP038; MAG039; URE044; CLO062; CON064; FOS066; MIO072; SOD077; TIR090; TIR091; PEP135; SUM136; SUM137; TRI161; FOS228; GAZ124; GAZ134; AMI023; CAL151; PEP156
+BOA043,Boala Inflamatorie Cronică,RBC003
+END044,Endocardită Subacută,RBC003
+TAL045,Talasemie,RBC003; MCV004; FER049
+DEF046,Deficit de Glucozo-6-Fosfat Dehidrogenază,RBC003; GLU050
+SFE047,Sferocitoză,RBC003
+SIC048,Siclemie,RBC003; BIL026; TIM053; COL0118; SUM146; NUM185; SID110
+SPL049,Splenomegalie Secundară,RBC003
+FIB050,Fibroza Medulară,RBC003; WBC007
+CAN051,Cancer în Stadiu Avansat,RBC003
+POL052,Policitemie,RBC003; GAZ127; DIS108
+ANX053,Anxietate,RBC003; CON064; GAZ124; GAZ134; GAZ125; GAZ132
+STR054,Stres,RBC003; WBC007; NEU008; BAZ012; ACI020; COL028; CRE029; ALF058; CET080; CET080; HID084; HOR085; FAC103; SUM150; SUM153; HEM231; GLI068; ALD257; ALD257; ALD257; COR152; HOR153
+BRO055,Bronhopneumopatie Obstructivă Cronică Severă,RBC003
+COR056,Cord Pulmonar,RBC003; PEP135
+FIB057,Fibroză Pulmonară,RBC003; ANT163
+AFE058,Afecțiuni hepatice severe,ACI020; CRE029; GLI034; PLA052; ACI112
+ANE059,Anemie Microcitară,MCV004; MCH005
+ANE060,Anemie Determinară de Carență în Fier sau Absorbție Deficitară,MCV004
+SIN061,Sindroame Hemoragipare,MCV004
+ANE062,Anemie Sideroblastică,MCV004
+INT063,Intoxicație cu Plumb,MCV004; ACI020; FIE031; ACI056; GLI069; SID110
+ANE064,Anemie Macrocitară,MCV004; MCH005
+ANE065,Anemie Megaloblastică,MCV004; RDW006; NUM013; LDH036; FER049; GLU050; TIM053; HOM070; ERI081; NUM185; SID110
+DEF066,Deficit de vitamina B12 sau Acid Folic,MCV004; NEU008; MPV014; HOM070
+CON067,Consum cronic de alcool,MCV004; NUM013; TIM018; ACI020; LDH036; MAG039; TRI043; ACI045; ACI056; ASP060; FOS066; PRE157
+AFE068,Afecțiunile Ficatului,MCV004
+CHI069,Chimioterapia,MCV004
+HIP070,Hipotiroidia,MCV004; ACI020; COL028; FIE031; FOS032; GGT033; GLI034; LDL037; LDL037; MAG039; TRI043; CON064; GAM067; SOD077; GAS082; HID084; TIR090; TIR091; ANT097; SUM149; SUM138; SUM140; SUM141; GLI068
+ANE071,Anemie Hipocromă,MCH005
+ANE072,Anemie Feriprivă,RDW006; NUM013; NUM013; FER049; ERI081; ANT092; BET234
+ANE073,Anemie Hemolitică,RDW006; MON010; BAZ012; NUM013; FIE031; LDH036; ACI045; FER049; GLU050; HAP051; FOS066; ERI081; NUM185; HEM231; SID110
+POS074,Posthemoragic,RDW006
+HEM075,Hemoglobinopatii,RDW006
+INT076,Intoxicație Medicamentioasă,WBC007; NUM013; AST024
+INF077,Infecții Supraadaugate,WBC007
+INF078,Infecșii Virale,WBC007; LIM009; MON010; NUM013; AGL046
+BOL079,Boli Autoimune,WBC007; EOZ011; ANT096; FAC103; ELE179; ANT164; COM174; PRO186; ANT162
+BOL080,Boli Cronice,WBC007
+APL081,Aplazie Medulară,WBC007
+POL082,Poliartrită Nodoasă,ANT096
+INF083,Infecție,WBC007; ALF058; SUM143
+INF084,Inflamație,WBC007; BAZ012; FIB030; PLA052; PRO186; PRE157
+MEN085,Menstruație,WBC007
+EFF086,Effort Fizic Excesiv,
+TRA087,Traumatisme,WBC007; NEU008; NUM013; FIB030; ASP060; FAC103; IZO120; SUM144; PRO184; EXA200; COM174
+HEM088,Hemoliză Acută,WBC007
+REA089,Reacții Transfuzionale,WBC007; LIM009; TES131
+ADM090,Administrare de Aspirină,WBC007
+ADM091,Administrare de Corticosteroizi,WBC007; LIM009; MON010; ACI020; COL028; GLI034; HDL035; PRO041; HEM231; TES159; GLI068; TES149
+ADM092,Administrare de Heparină,WBC007; APT016; TIM017; PTT111
+BOL093,Boli de Colagen,WBC007; MON010; VSH015; TIM019; LDH036; FER049; HAP051; ANT097; ANT170
+BOL094,Boala Cushing,WBC007; HID084; TIR090; TIR091; TES261; COR152
+INF095,Infecții Bacteriene Severe,NEU008
+INF096,Infecții Virale Severe,NEU008
+RAD097,Radioterapie,NEU008; LIM009; LIM009; MON010; NUM013; NUM185
+ADM098,Administrare de Medicamente Toxice pe Maduvă Hematogenă,NEU008
+ACR099,Acromegalie,NEU008; CAL027; CRE029; GLI034; FOS066; GLU083; HOR085; INS087; SOM158; CAL188; HEM231; MAR271; MAR274; MAR275; GLI068; TES149
+BOA100,Boala Addison,NEU008; LIM009; EOZ011; CAL027; GLI034; MAG039; SOD042; CLO062; POT075; CET080; HID084; ANT092; CAL188; TES159; ACT256; GLI068; ALD257; ALD257; ALD257; ALD257; ALD257; ALD257; AND259; COR152; HOR153
+TIR101,Tireotoxicoză,NEU008; LIM009
+ANO102,Anorexia Nervoasă,NEU008; ACI045; HOR085; APO114
+MON103,Mononucleoză,NEU008; AGL046
+HEP104,Hepatită,NEU008; LIM009; TIM018; ALT022; AST024; BIL026; GGT033; NUC073; TIR091; LEU134; TRI161; COM174
+AFE105,Afectiuni Inflamatorii,NEU008
+INF106 ,Infecții,
+HEM107,Hemoragie Acută,NEU008
+INF108,Infarct Miocardic,NEU008; ACI020; ALT022; AST024; ACI057; ASP060; GAM067; APO113; COM175
+GUT109,Gută,NEU008; ACI020; CET080
+CET110,Cetoacidoză Diabetică,NEU008; AST024; ACI056; ASP060; CON064; POT075; SOD077; GAZ126; AMI023
+LEU111,Leucemie Mielocitară,NEU008; BAZ012; MPV014
+SIN112,Sindrom Cushing,NEU008; EOZ011; TIM019; GLI034; LDL037; POT040; SOD042; CLO062; CLO063; POT075; SOD077; CET080; GLU083; INS087; HEM231; GLI068; HOR153
+DEF113,Deficit Imun,LIM009; PRO041
+SEP114,Sepsis,LIM009; BIL026; URE044; FOS066
+ADM115,Administrare de Antineoplazice,LIM009
+BOA116,Boala Hodgkin,LIM009; MON010; EOZ011; BAZ012; FIB030; FER049; ENZ065; PRE157
+HIP117,Hiperspelinsm,LIM009; CAL151
+STA118,Stadiul Final al Infecției HIV,LIM009
+PNE119,Pneumonie,LIM009; LDH036; CON064; GAZ127
+BOA120,Boala Gaucher,LIM009; MON010; NUM013; ENZ065; FOS228
+BOA121,Boala Hemolitica a Nou Nascutului,LIM009
+PUR122,Purpura Trombocitopenică,LIM009; MON010
+ANE123,Anemie pernicioasă,BIL026; FOS032; ACI045; GLU050; TIM053; VIT055; GAS082; ANT092; ANT097; ANT170; SID110; CAL151
+INF124,Infecții Bacteriene,LIM009; VSH015; PRO184
+LEU125,Leucemie Limfocitară,LIM009
+MAC126,Macroglobulinemie Waldenström,LIM009; PRO041; PRO076; ELE180; FAC181; GAM235
+AFE127,Afecțiuni Inflamatorii Cronice,MON010
+PAR128,Parazitoze,MON010
+COL129,Colită Ulceroasă,MON010; NUM013; HAP051; COM174
+TUB130,Tuberculoză,MON010; NUM013; CAL027; ENZ065; FAC181; PRO184; CAL188; TES239; COR152
+LEU131,Leucemie Monocitară,MON010
+BOA132,Boala Wilson,ACI020; PRO041; ALF233
+SIN132,Sindrom Fanconi,ACI020
+ING133,Ingestie excesivă de carne,ACI020
+OBE134,Obezitate,ACI020; ALT022; HID084; INS087; SOM158; COR152
+DIA135,Diabet zaharat,ACI020; GLI034; TIM054; ENZ065; GLI069; MIC071; GLU083; HOR085; INS087; TES089; SUM136; ACI112; COM175; GLI068; TES149; PEP156
+BOL136,Boli cardiovasculare,ACI020; HOM070; MIC071
+DEF137,Defect congenital de metabolizare a purinelor,ACI020
+EFO138,Efort fizic intens,ACI020; CAL027; CRE029; CAL188
+SIN139,Sindrom de strivire,ACI020; ACI057
+CON140,Convulsii,ACI020
+INF141,Infarct miocardic acut,VSH015; COL028; FIB030; GGT033; GLI034; LDH036; TRI043; URE044; DIM048; IZO121
+INS142,Insuficiență renală cronică,VSH015; ACI020; GLI034; POT040; SOD042; FER049; HOM070; POT075; GAS082; GLU083; APO113; APO116; GAZ126; SUM151; SUM153; DIS108; ACT256; MAR271; MAR274; MAR275; GLI068; TES149; PAR155
+INS143,Insuficiență renală acută,AST024; POT040; ASP060; POT075
+BOA144,Boală renală polichistică,ACI020
+ACI145,Acidoză lactică,ACI020; GAZ124; GAZ134
+CET146,Cetoacidoză,ACI020; CRE029; GAZ124; GAZ134
+HIP147,Hiperparatiroidism,ACI020; CAL027; FOS032; TRI043; CLO062; FOS066; GAS082; CAL188; FOS228; MAR271; MAR274; MAR275; AMI023; PAR155
+HIP148,Hipoparatiroidism,ACI020; CAL027; MAG039; FOS066; CAL188; PAR155
+TOX149,Toxemie de sarcină,ACI020; SOD077
+SIN150,Sindrom Lesch-Nyhan,ACI020
+HIP151,Hiperlipoproteinemie,ACI020; TRI043
+SOC152,Șoc,ACI020; ALT022; AST024; CRE029; URE044; ASP060; CON064; IZO120; ACI112; GAZ124; GAZ134; AMI023
+MET153,Metastaze,TIM019; ACI020; PRO076; TIR090; TES159; AMI023
+MET154,Metastaze hepatice,AST024; BIL025; FOS032; GGT033; GAM067
+MET155,Metastaze ossoase,CAL027; FOS032; FOS066; CAL188
+LEU156,Leucemie acută,FIE031; SID110
+ADM157,Administrare de medicamente hepatotoxice,ALB021; ALT022; GGT033; PRO041; GAM067; NUC073
+ADM158,Administrare de medicamente nefrotoxice,URE044; GLI069; SUM138; SUM140; SUM141
+PSO159,Psoriazis,ACI020; ANT172
+BOA160,Boala Paget,ACI020; FOS032; FOS228; MAR271; MAR274; MAR275
+BOA161,Boala Paget a osului,CAL027; CAL188
+INT162,Intoxicație cu metale,ACI020
+AMI163,Amiloidoză,SUM138; SUM140; SUM141
+AFE164,Afecțiuni hepatice,ALB021; FIB030; FIE031; HDL035; LDH036; PRO041; ACI045; ASP060; FOS066; PRO100; PRO101; PRO102; FAC104; FAC105; FAC107; TRI161; ANT047; COP118; PRO186; PRE157; SID110; COR152
+AFE165,Afecțiuni hepatice cronice,AST024; LDL037; HAP051; ASP060; ELE176; ELE179; COM175
+MAL166,Malnutriție proteică,CRE029; FIE031; TRI161; COM174; SID110
+ENT167,Enteropatie,ALB021; PRO041
+NEF168,Nefropatie cu pierdere de proteine,ALB021; PRO041
+NEF169,Nefropatie diabetică,CRE029; SUM151
+SAR170,Sarcină ectopică,AMI023
+SAR171,Sarcină normală,
+SAR172,Sarcină în ultimul trimestru,FIE031; TIR090
+COL173,Colestază indusă de sarcină (ultimul trimestru și imediat postpartum),FOS032
+HIP174,Hiperhidratare,ALB021; PRO041
+BOL175,Boli inflamatorii,VSH015; ALB021; PRO041; FER049; ALF232; ALF233; SID110
+BOL176,Boli inflamatorii cronice,PRO041; GAM235
+CON177,Contraceptive orale,ALB021; COL028; FIE031; GGT033; PRO041; SID110
+DIS178,Disproteinemie idiopatică familială,ALB021
+COL179,Colestază,ALT022; GGT033; GAM067; NUC073; APO113; LEU134
+ICT180,Icter,GGT033; GAM067
+ICT181,Icter obstructiv,ALT022; ACI057; ANT047
+ISC182,Ischemie hepatică,ALT022; NUC073
+SIN183,Sindrom Reye,ALT022; AST024; GGT033; URE044; AMO059; ASP060; GAM067; APO114; ACI112
+TRA184,Traumatisme musculare,ALT022; AST024; CAL027; CRE029; LDH036; MAG039; POT040; MIO072; CAL188
+TRA185,Traumatisme musculare recente,SOD042
+TRA186,Traumatism asupra pancreasului,AMI023
+INJ187,Injecții IM,ALT022; IZO120
+POL188,Polimiozită,ALT022; ACI057
+PAN189,Pancreatită,ALT022; GGT033; LDH036; MAG039; GAM067; MAR230; ANT254; MAR272; CAL151
+PAN190,Pancreatită acută,AST024; CAL027; GLI034; LIP038; TRI043; ASP060; GLU083; CAL188; AMI023; GLI068; TES149
+PAN191,Pancreatită cronică,NUM013; TRI043; GLU083
+INS192,Insuficiență cardiacă congestivă,ALT022; AST024; CRE029; LDH036; SOD042; URE044; AMO059; CLO062; SOD077; PEP135; SUM137; SUM153; SUM138; SUM140; SUM141; ALD257; ALD257; ALD257
+INS193,Insuficiență hepatică,TIM019; URE044
+INS194,Insuficiență hipofizară,GLI034; CET080; HID084; HOR085; IND086; INS087; TES089; TIR090; TIR091; SOM158; TRI161; TIR190; TES159; GLI068; AND259; COR152
+MON195,Mononucleoză infecțioasă,ALT022; AST024; GGT033; GAM067; ANT096; TES131; CRI175; FAC181; VIR213; ANT162
+PSE196,Pseudochist pancreatic,LIP038; AMI023
+NEO197,Neoplasm pancreatic,AMI023
+NEO198,Neoplasm peripancreatic,AMI023
+NEO199,Neoplasme în fază terminală,FIB030
+NEO200,Neoplasme în stadiu avansat,LDH036; FER049
+PAR201,Parotidită,AMI023
+OBS202,Obstrucție duodenală,AMI023
+CAL203,Calculi la nivelul canalului biliar comun,AMI023
+CAL204,Calculi biliari,BIL025; LEU134
+OBS205,Obstrucție extrahepatică prin calcul,BIL025
+COL206,Colecistită acută,LIP038; AMI023
+SIN207,Sindrom de ansă aferentă,AMI023
+ULC208,Ulcer peptic perforat,AMI023
+ULC209,Ulcer peptic penetrant,AMI023
+NEC210,Necroză intestinală,AMI023
+APE211,Apendicită acută,AMI023
+PER212,Peritonită,MAR272; AMI023
+CAN213,Cancer de esofag,AMI023
+CAN214,Cancer de plămân,AMI023
+CAN215,Cancer de ovar,REC088; AMI023
+CAN216,Cancer de pancreas,GGT033; LIP038; TIM054; GAM067; GLU083; MAR230; ANT254; MAR272; REC088; CAL151
+ABC217,Abces tuboovarian,AMI023
+INF218,Infarct pulmonar,IZO121; PRO184; COM174; AMI023
+INF219,Infarct intestinal,FOS032; LDH036; LIP038
+INF220,Infarct renal,LDH036; SUM146
+ANE221,Anevrism de aortă,AMI023
+MAC222,Macroamilazemie,AMI023
+DIA223,Dializă renală cronică,AST024; ASP060
+HEM224,Hemodializă,NUM013; LIP038; MAG039; FER049; APO113; APO114
+URE225,Uremie,NUM013; TIM019; AST024; TIM053; ASP060
+DEF226,Deficit de vitamina B6,AST024; HOM070
+DEF227,Deficit de vitamina D,CAL027; FOS066; CAL188; PAR155
+DEF228,Deficit congenital de fibrinogen,FIB030
+DEF229,Deficit familial de HDL,HDL035
+DEF230,Deficit de apoproteină CII,LDL037
+DEF231,Deficit de glucagon,GLI034; COM176
+POS232,Postgastrectemie,TES149
+OBS233,Obstrucție extrahepatică acută,AST024
+OBS234,Obstrucție biliară extrahepatică,FOS032; BIL187
+OBS235,Obstrucție biliară intrahepatică,FOS032
+OBS236,Obstrucție de tract urinar,CRE029
+OBS237,Obstrucție extrahepatică,LIP038; ANT166
+OBS238,Obstrucție extrahepatică prin inflamație,BIL025
+OBS239,Obstrucție extrahepatică prin tumoră,BIL025
+OBS240,Obstrucție intestinală,SOD042
+OBS241,"Obstrucție ureterală, vezicală sau uretrală",URE044
+CIR242,Ciroză biliară,COL028; SID110; ANT162
+TUM243,Tumori hepatice,AST024; FOS032; GGT033; GAM067; NUC073; LEU134
+TUM244,Tumori testiculare,LDH036
+TUM245,Tumori secretante de parathormon,CAL027; CAL188
+PRO246,Procese hepatice infiltrative,AST024
+HEM247,Hemocromatoză,AST024; FIE031; GLI034; FER049; ANT172; SID110
+INT248,Intoxicație cu vitamina D,CAL027; CAL188; PAR155
+ARI249,Aritmii miocardice,AST024
+DIS250,Distrofie musculară progresivă,AST024; ASP060
+DIS251,Distrofie musculară,CRE029; LDH036; MIO072; IZO120
+MIO252,Miopatie,AST024; ASP060; CON064
+MIO253,Miozită,AST024; ASP060; MIO072; IZO120
+CON254,Convulsii recente,AST024; ASP060; IZO120
+ADM255,Administrare de diuretice,COL028; GLI034; HDL035; MAG039; POT040; SOD042; CLO062; POT075; SOD077; SUM136; GLI068
+ADM256,Administrare de diuretice timp îndelungat,MAG039
+ADM257,Administrare de dextroză,GLI034; GLI068
+ADM258,Administrare de progrestative,HDL035
+ADM259,Administrare de betablocante,COL028; HDL035
+ADM260,Administrare de anticonvulsiviante,COL028
+ADM261,Administrare de antiinflamatoare nesteroidiene,COL028
+ADM262,Administrare de fibrați,GGT033
+ADM263,Administrare de laxative,MAG039
+ADM264,Administrare de spironolactonă,POT040; TIR190
+ADM265,Administrare de preparate cu calciu,MAG039
+ADM266,Administrare de glucoza,POT040
+ADM267,Administrare de insulina,POT040; PRO041
+ADM268,Administrare de hormoni androgeni,PRO041
+ADM269,Administrare de hormon de creștere,PRO041
+ADM270,Administrare de progesteron,PRO041
+INT271,Intervenții chirurgicale,AST024; POT040; ASP060; GLU083; HOR085
+INT272,Intervenții chirurgicale recente,SOD042; ASP060; IZO120
+CAT273,Cateterizare cardiacă,AST024; ASP060
+ANG274,Angloplastie,AST024; ASP060
+ANE275,Anemie hemolitică acută,AST024; ASP060; SID110; SID110
+SIN276,Sindromul Dubin-Johnson,BIL025
+SIN277,Sindromul Rotor,BIL025
+TRA278,Transfuzii sangvine,NUM013; TIM018; BIL026
+TRA279,Transfuzie sangvină importantă,CAL027; CAL188
+TRA280,Transfuzii sangvine masive,FIB030; FIE031; ACI045; SID110
+REZ281,Rezoluție a unui hematom voluminos,BIL026
+ERI282,Eritroblastoză fetală,BIL026; TES131; TES132; NUM185
+HIP283,Hiperbilirubinemie neonatală,BIL026
+CRI284,Sindrom Crigler-Najjar,BIL026
+SIN285,Sindromul Gilbert,BIL026
+MAL286,Malabsorbție,CAL027; LDL037; MAG039; URE044; POT075; SOD077; CAL188; GLI068
+MAL287,Malabsorbție a fierului,FIE031
+SIN288,Sindroame de malabsorbție,GLI034; TRI043; ACI045; VIT055
+OST289,Osteomalacie,CAL027; FOS066; CAL188; PAR155
+VOL290,Volum mare de soluții perfuzate IV,CAL027; CAL188
+EFO291,Efort fizic extenuant recent,LDH036
+SIN292,Sindrom lapte-alcalin,CAL027; FOS032; CAL188
+IMO293,Imobilizare prelungită,CAL027; CAL188
+HIP294,Hipoalbuminemie,CAL027; CAL188
+ALC295,Alcaloză metabolică,CAL027; POT040; CLO062; CON064; SUM136; CAL188
+EMB296,Embolie grasă,CAL027; CAL188
+RIC297,Rickettsioze,CAL027; FOS066; CAL188
+DIE298,Dietă cu conținut ridicat de grăsimi,COL028
+DIE299,Dietă bogată în carne,CRE029; FIE031
+DIE300,Dietă fără sare,SOD042
+DIE301,Dietă bogată în sare,SOD042
+DIE302,Dietă bogată în carbohidrați,TRI043
+CAR303,Carență în dietă,POT040
+EXC304,Exces de potasiu în dietă,POT040
+LIP305,Lipoproteinemie,TRI043
+HIP306,Hipolipoproteinemie,TRI043
+HIP307,Hipolipoproteinemie familială,LDL037
+LIP308,Lipoproteinemie LDL familială,LDL037
+HIP309,Hipertensiune arterială,COL028; LDH036; TRI043
+DIA310,Diabet insipid,SOD042; SUM137
+DIA311,Diabet zaharat necontrolat,COL028; MAG039; APO113; APO116; SUM141
+DIA312,Diabet zaharat necontrolat prin dietă,TRI043
+DIA313,Diabet zaharat necontrolat prin tratament,TRI043
+SIN314,Sindrom nefrotic,COL028; FIE031; HDL035; LDL037; TRI043; URE044; ALF058; CET080; FAC104; APO113; APO114; COL0117; SUM149; SUM151; TRI161; ELE176; ELE179; ALF233; ANT047; SUM138; SUM140; SUM141; PRE157; ALD257; ALD257; ALD257; SID110
+XAN315,Xantomatoză,COL028
+ATE316,Ateroscleroză,COL028; CRE029
+AMI317,Amiodaronă,COL028
+MAS318,Masă musculară redusă,CRE029
+GLO319,Glomerulonefrită,CRE029; FIE031; LDH036; URE044; HAP051; SUM137; SUM144; SUM146; SUM147; SUM149; SUM150; SUM151; SUM152; SUM153; COM174; SUM138; SUM140; SUM141; SID110
+PIE320,Pielonefrită,CRE029; URE044; HAP051; SUM137; SUM144; SUM150; SUM153; SUM138; SUM140; SUM141
+NEC321,Necroză tubulară renală acută,CRE029
+NEC322,Necroză tubulară actută,LDH036; URE044
+NEC323,Necrozătisulară,FIB030
+MIA324,Miastenie gravis,CRE029; MIO072; ANT096; ANT099
+FLU325,Flux renal redus,CRE029
+POL326,Poliomielită,CRE029; CON064
+GIG327,Gigantism,CRE029; HOR085; SOM158
+INF328,Inflamație a glandelor salivare,LIP038
+COA329,Coagulopatie de consum,FIB030
+INF330,Infecții acute,FIB030; FIE031; PRO041; ELE180; GAM235; ANT164; SID110
+INF331,Infecție cu citomegalovirus,GGT033; GAM067
+FIB332,Fibrinolizine,FIB030
+FUM333,Fumat,FIB030; HDL035; CAR061
+BOL334,Boli coronariene,FIB030
+ART335,Arteriopatie obliterantă,FIB030
+ACC336,Accident vascular cerebral,FIB030; GLI034
+SAN337,Sângerări cronice,FIE031; GLU050; HEM231; SID110
+SAN338,Sângerare de tract gastrointestinal,URE044
+HEM339,Hematurie cronică,FIE031; SID110
+MEN340,Menometroragii,FIE031; SID110
+PRE341,Preparate cu fier,FIE031
+HEM342,Hemosideroză,FIE031; FER049; SID110
+CRE343,Creștere osoasă fiziologică (la copii și adoleșcenți),FOS032
+BOA344,Boală celiacă,FOS032; ACI079; ANT172; COM175
+SUP345,Supradoză de vitamina B,FOS032
+SUP346,Supradozare de insulină,GLI034; GLI068
+FRA347,Fracturi osoase în curs de vindecare,FOS032
+HIP348,Hipofosfatemie,FOS032
+SCO349,Scorbut,FOS032
+ISC350,Ischemie intestinală,FOS032; LDH036; DET123
+CON351,Consum de alcool,GGT033; GLI034; HDL035; LDL037; GAM067; INS087
+TRA352,Transplant renal,GGT033; GAM067; ANT047
+RAS353,Răspuns acut la stres,GLI034; TES149
+INA354,Inaniție,GLI034; GAZ126; SUM136
+INS355,Insulinom,GLI034; INS087; GLI068; PEP156
+GLU356,Glucagonom,GLI034; GLU083; HEM231; GLI068; TES149
+POS357,Postrezecție de stomac,GLI034
+GAL358,Galactozemie,GLI034; SUM138; SUM140; SUM141
+FEO359,Feocromocitom,HEM231; TES260; TES262; GLI068; TES149
+INT360,Intoleranță ereditară la fructoză,GLI034; ACI057
+BOA361,Boala von Gierke,GLI034
+TRO362,Trombembolism pulmonar,VSH015; LDH036; GAZ124; GAZ134
+REJ363,Rejecție de trasplant renal,LDH036
+DIA364,Diaree,POT040; POT075; SOD077; SUM136; SUM137; ACT256
+DIA365,Diaree prelungită,MAG039
+AFE366,Afecțiuni renale cronice,MAG039; ACI045; SUM149; PRE157
+STE367,Stenoză de arteră renală,POT040; SUM137; ALD257; ALD257; ALD257
+HIP368,Hiperaldosteronism,MAG039; POT040; SOD042; CLO062; CON064; POT075; SOD077; GAZ126; PRO186; GAZ124; GAZ134
+HIP369,Hipercalcemie,MAG039; FOS066; PAR155
+HIP370,Hipercolesterolemie familială tip Iia,LDL037
+OCL371,Ocluză intestinală,LIP038
+ULC372,Ulcer gastroduodenal,LIP038; DET123
+COL373,Colangită,LIP038
+POS374,Postcolangiopancreatografie endoscopică retrogradă,LIP038
+ING375,Ingestie de antiacide sau săruri de magneziu,
+VAR376,Vărsături,POT040; SOD042; CLO062; POT075; SUM136; SUM137; ACT256
+ACI377,Acidoză,POT040; FOS066; DIS108
+ACI378,Acidoză tubulară renală,POT040; CLO062; POT075; SUM136
+ASC379,Ascită,POT040; SOD042
+FIB380,Fibroză chistică,POT040; ACI079; GLU083; MAR230; GAZ124; GAZ134
+DIS381,Dispoteinemie idiopatică familială,PRO041
+EMF382,Emfizem pulmonar juvenil,PRO041; ALF232
+ADM383,Administrare în perfuzie IV de soluție cu conținut ridicat în sodiu,SOD042
+TRA384,Transpirație profuză,SOD042; SOD077
+ARS385,Arsuri întinse,SOD042
+ASP386,Aspirație nazogastrică,SOD042
+SCA387,Scaun diareic,SOD042
+DIU388,Diureză osmotică,SOD042
+DIL389,Diluție osmotică,SOD042
+EDE390,Edeme,SOD042
+REV931,Revărsat pleural,
+ILE392,Ileus,SOD042
+SIN393,Sindromul Werner,TRI043
+HIP394,Hipovolemie,URE044; HOR154; ALD257; ALD257; ALD257
+SIN395,Sindrom de secreție inadecvată de hormon antidiureic,URE044; CLO062
+ING396,Ingestie masivă de proteine,URE044
+PRO397,Proteine totale serice,
+NUT398,Nutriție parenterală totală,URE044
+DEF399,Defecte congenitale ale enzimelor implicate în ciclul ureei,URE044; MET189
+HIP400,Hipoaldosteronism,POT040
+ADM401,Administrare de imunosupresoare,EOZ011
+ADM402,Administrare de tiroxină,EOZ011
+ADM403,Administrare de prostaglandine,EOZ011
+INF404,Infecții bacteriene acute cu deviere marcată la stânga formulei leucocitare,EOZ011
+INF405,Infecții parazite,EOZ011
+REA406,Reacții alergice,EOZ011; ELE178
+REA407,Reacții alergice acute,BAZ012
+AST408,Astm bronșic,EOZ011; BAZ012; TES191; TES192
+ECZ409,Eczeme,EOZ011
+PEM410,Pemfigus,EOZ011
+DER411,Dermatită herpetiformă,EOZ011; ANT172
+SIN412,Sindrom Loffler,EOZ011
+LIM413,Limfon Hodkin,NUM013
+LEU414,Leucemie mieloidă cronică,EOZ011
+BOL415,Boli de țesut conjunctiv,EOZ011; TIM019
+ALE416,Alergii,BAZ012
+AFE417,Afecțiuni mieloproliferative,BAZ012; VIT055
+MIE418,Mielofibroză,BAZ012; NUM013
+MIE419,Mielosupresie indusă medicamentos,MPV014
+ANE420,Anemie posthemoragică,NUM013
+CRO421,Cronică postsplenectomie,BAZ012
+STA422,Status postsplenectomie (primele 2 luni),NUM013
+EFO423,Efort fizic,NUM013; MIC071; HOR085
+INT424,Intoxicație cu metale grele,VSH015; SUM152; COP118
+INT425,Intoxicație cu salicilați,TIM018; CON064; PRE157
+PRE426,Premenstrual,NUM013
+HEM427,Hemoglobinurie paroxistică nocturnă,NUM013
+LIM428,Limfom,NUM013; PRO076; MAR272; ALF253; AGL046; AGL046
+BOA429,Boală cardiacă ischemică,NUM013
+BOL430,Boli cardiace vasculare,MPV014
+BOA431,Boala Fanconi,NUM013
+HIP432,Hipersplenism,NUM013; MPV014; TIM019
+REB433,Rebound (după trombocitopenie),NUM013
+POS434,Postoperator (primele 2 săptămâni),NUM013
+TRO435,Trombocitemie esențială,NUM013
+REU436,Reumatism articular acut,NUM013; ANT171; ANT173; PRO184; COM174
+BOA437,Boala Bernard-Soullier,NUM013
+SIN438,Sindrom Bernard-Soulier,TIM019
+MET439,Metastaze medulare,NUM013
+DEF440,Deficit de factori ai coagulării,TIM017; TIM019
+DEF441,Deficit de vitamina K,APT016; PRO100; PRO102; FAC104; FAC105; FAC107; PTT111; ANT047; PRO186
+DEF442,Deficit de trombocite,NUM013; TIM018
+PRO443,Proteze valvulare,NUM013
+COA444,Coagulare intravasculară diseminată,NUM013; APT016; TIM018; TIM019; PLA052; TIM054; PTT111; ANT047; PRO186
+DEF445,"Deficit al factorilor coagulării von Willebrand VIII, IX, XI, XII",APT016; PTT111
+DEF446,Deficit ereditar de factori ai coagulării,TIM018
+FAZ447,Faza incipientă a coagulării intravasculare diseminate,APT016; PTT111
+PUR448,Purpură trombocită trombocitopenică idiopatică,NUM013; GLU050
+HIP449,Hipoxie prelungită,NUM013
+SIN450,Sindrom Wiskott-Aidrich,MPV014
+TRO451,Trombocitopenie,TIM019; ANT164
+TRO452,Trombocitopenie imună,MPV014
+EMB453,Embolism pulmonar,ENZ065
+HIP454,Hiperfibrinogenemie,VSH015; CLO063; ACT256
+NIV455,Nivele înalte ale proteinelor serice,VSH015
+MAC456,Macroglobulinemie,VSH015
+NIV457,Nivele scăzute ale fibrinogenului seric,APT016; PTT111
+AFE458,Afecțiuni hepatocelulare,APT016; ACI057; AMO059; PTT111; COL0117
+OBS459,Obstrucție biliară,APT016; TIM018; HAP051; NUC073; PTT111; APO114
+RIS460,Risc crescut de tromboză vasculară,TIM017
+ADM461,Administrare de Acenocumarol,TIM018
+ADM462,Administrare de Sintrom,TIM018
+ADM463,Administrare de Trombostop,TIM018; ALD257; ALD257; ALD257; ALD257; ALD257; ALD257
+TUM464,Tumori medulare,TIM019
+BOA465,Boala von Willebrand,TIM019
+TRO466,Trombastenie Glanzmann,TIM019
+FRA467,Fragilitate capilară,TIM019
+SIN468,Sindrom Henoch-Schonlein,TIM019
+TEL469,Telangiectazie ereditară,TIM019
+FEB470,Febră,TIM019; SUM136; SUM153
+SIN471,Sindromul de secreție inadecvată de ADH,SOD042
+ANE472,Anemie prin deficit de Acid Folic,ACI045
+DIE473,Dietă vegetariană,ACI045; SUM136
+SAL474,Salmoneloză,AGL046
+BRU475,Bruceloză,BRU196; AGL046
+TUL476,Tularemie,AGL046
+INF477,Infecție cu Rickettsii,AGL046
+SCL478,Sclerodernie,ENZ065; ANT096; ANT100; AGL046
+CIR479,Ciroza,FER049; ACI057; ALF058; GAM067; NUC073; GLU083; ANT096; CRI175; FOS228; MAR272; ALF253; AGL046; TES149
+TUM480,Tumoră timică,AGL046
+STA481,Stafilococemie,AGL046
+TEN482,Tendință la coagulare,ANT047
+HEP483,Hepatită Acută,ASP060
+DEF484,Deficit Ereditar de AT-III,ANT047
+FIB485,Fibrinoliză,DIM048; PRO101
+TRA486,Tratament cu Trombolitice sau Activator al Plasminogenului tisular,DIM048
+TRO487,Trombemolism arterial,DIM048
+CID488,CID (coagulare intravasculară diseminată),DIM048; PRO101; FAC103; FAC104; FAC107
+BOL489,Boli vasculare aterosclerotice,DIM048
+CRI490,Criză vascoocluziva siclemica,DIM048
+AFE491,Afecțiuni Inflamatorii sistemice,DIM048
+INT492,Intoxicație cu Fier,FER049; SID110; SID110
+INT493,După intevenții chirurgicale sau traumatisme,
+DEF494,Deficit proteic sever,FER049
+TRA495,Transfuzii sangvine recente,TIM053
+AFE496,Afecțiuni hepatocelulare inflamatorii,FER049
+CON497,Consum excesiv de alcool,FER049
+ADM498,Administrarea de preparate cu fier,FER049
+IMA499,IMA,GLU050; HAP051; PEP135; PRO184
+HEP500,Hepatită virală,GLU050; CRI175; BIL187; COM175
+COM501,Comă hepatică,GLU050
+REA502,Reacții postransfuzionale,HAP051
+HEM503,Hematoame,HAP051
+LES504,LES,HAP051; ANT096; ANT098; TES131; SUM146; CRI175; ELE179; FAC181; PRO184; SUM138; SUM140; SUM141; ANT166; COM175; ANT166
+PRO505,Proteze de valve cardiace,HAP051
+ULC506,Ulcer peptic,HAP051; ANT254
+RAA507,RAA,HAP051
+FIB508,Fibrinoliză primară,PLA052
+SIN509,Sindroame asociate cu tendință la trombozare,PLA052
+DEF510,Deficite congenitale rare,PLA052
+POS511,Postoperator,PLA052; PRO186
+BOA512,Boala membranelor hialine (neonatal),PLA052
+LEU513,Leucemie granulocitară cronică,TIM053
+HEM514, Hemoglobină S,TIM053
+SFE515,Sferocitroză ereditară,TIM053
+TAL516,Talasemie minoră,TIM053
+PRE517,Prematuritate,TIM054
+INC518,Incompatibilitate transfuzională,TIM054
+COM519,ComplicațIi obstetrice,TIM054
+CAN520,Cancer de prostată,TIM054; ANT270; MAR272
+SOC521,Șoc hemoragic,TIM054
+SOC522 ,Șoc septic,
+ADM523,Administrarea de trombolitice,TIM054
+INT524,Intervenții chirurgicale majore,TIM054
+TRA525,Traumatisme severe,TIM054
+GAS526,Gastrită atrofică,VIT055; GAS082; ANT092
+SIN527,Sindrom Zollinger-Ellison,VIT055; GAS082; CAL151
+GAS528,Gastrectomie subtotală,VIT055
+ACL529,Aclorhidrie,VIT055
+BOL530,Boli intestinale inflamatorii,VIT055; ELE176
+INF531,Infecții intestinale parazite,VIT055
+REZ532,Rezecție de ileon terminal,VIT055
+DEF533,Deficit de vitamina C,VIT055
+DEF534,Deficit de acid folic,VIT055; NUM185
+INS535,Insuficiență hepatică severă,VIT055; ALF233
+POR536,Porfirie,ACI056
+DIS537,Distrofie musculară tardivă,ACI057
+ATR538,Atrofie musculară,ACI057
+AFE539,Afecțiuni musculare,ACI057
+DIS540,Distrofie musculară progresivă Duchenne,ACI057
+DER541,Dermatomiozită,ACI057; ANT096; FAC181
+INF542,Infecții musculare,ACI057
+TRI543,Trichineloză,ACI057
+DEL544,Delirium tremens,ACI057; IZO120
+PRO545,Procese gangrenoase,ACI057
+HEP546,Hepatită cronică,ACI057; ANT096; FAC181; ANT162
+SIN547,Sindrom eozinofilie-mialgie,ACI057
+EMF548 ,Emfizem pulmonar panacinar sever cu debut precoce,
+SIN549 ,Sindrom de detresă respiratorie neonatală,
+NIV550,Nivel scăzut al proteinelor serice,
+CAN551,Cancer în stadiu terminal,ALF058
+ENT552,Enteropatie cu pierdere de proteine,ALF058; ELE176
+INF553,Inflamație acută,ALF058
+INF554,Inflamație cronică,ALF058; BET227
+TIR555,Tiroidite,ALF058
+HIP556,Hipertensiune esențială,AMO059
+HIP557,Hipertensiune malignă,AMO059; ALD257; ALD257; ALD257
+HIP558,Hipertensiune portală,AMO059
+ENC559,Encefalopatie hepatică,AMO059
+BOA560,Boala hemolitică a nou-născutului (eritroblastoza fetală),AMO059
+DIA561,Diabet zaharat tip 1,ANT094
+INT562,Intoxicație cu asparagină,AMO059
+TUL563,Tulburări genetice metabolice ale ciclului ureei,AMO059
+DEF564,Deficit de piridoxină (beri-beri),ASP060
+OBS565,Obstrucție ectrahepatică acută,ASP060
+INT566,Intoxicație medicamentoasă,ASP060
+MET567,Metastaze hemopatice,ASP060
+NEC568,Necroză hepatică,ASP060
+TUM569,Tumori,ASP060
+COL570,Colecistită,ASP060; MAR230; ANT254
+AFE571,Afecțiuni cardiace,ASP060; CON064; OXI074; CPK119
+ARI572,Aritmii cardiace,ASP060
+INS573,Insuficiență cardiacă cronică,ASP060; GAZ124; GAZ134
+INT574,Intoxicație CO,CAR061
+AFE757,Afecțiune hemolitică,CAR061
+VAR758,Vărsături incoercibile,CON064; SUM141; GAZ124; GAZ134
+ASP759,Aspirare gastrică îndelungată,CLO062
+NEF760,Nefrită cu pierdere de sare,CLO062
+ACI761,Acidoză respiratorie cronică,CLO062
+ACI762,Acidoză metabolică hiperclorenică,CLO062
+ACI763,Acidoză metabolică,CON064; SUM136; GAZ124; GAZ124; GAZ134; GAZ134
+ACI764,Acidoză diabetică,FOS066
+ALC765,Alcaloză respiratorie,CLO062; SUM136; GAZ124; GAZ134
+ALC766,Alcaloză  ,FOS066; POT075
+HIP767,Hipokalemie,CLO062; IZO120; GAZ124; GAZ134
+PER768,Perfuzare de soluție salină în exces,CLO062
+PRE769,Preeclampsie,MIC071; SUM138; SUM140; SUM141
+HIP770,Hiperpnee,CLO062
+TUM771,Tumori viroase de colon,CLO063
+SIN772,Sindrom Bartter,CLO063; ACT256
+OBS773,Obstrucție de căi respiratorii,CON064
+CRI774,Criză astmatică,CON064
+BRO775,Bronșită cronică,CON064
+TUB776,Tuberculoză pulmonară,CON064
+BOA777,Boală cardiacă reumatismală,ANT095
+EMF778,Emfizem,CON064
+EMF779,Emfizem pulmonar,SOD077; SUM136
+POR780,Porfirie intermitentă acută,CON064; URO078
+CAR781,Cardiomiopatie,ANT095; IZO121
+LEP782,Lepră,ENZ065
+MIE783,Mielom,ENZ065; BET227; BET227
+CIR784,Ciroză alcoolică,CAL151
+CIR785,Ciroză biliară primitivă,ENZ065; MAR271; MAR274; MAR275; ANT166
+HIS786,Histoplasmoză activă,ENZ065
+HIP787,Hipertiroidism factitious,IND086; TIR090; TIR091; TRI161
+HIP788,Hipertiroxinemie disalbuminemică familială,TIR091
+FIB789,Fibroză pulmonară idiopatică,ENZ065
+AMI790,Amiolidoză,ENZ065; PRO076; TES150
+DEF791,Deficit de fosfor,FOS066
+APO792,Aport ridicat de fosfor,FOS066
+HIP793,Hipocalcemie,FOS066; PAR155
+MET794,Metastaze a suprarenalelor,HID084
+ING795,Ingestie cronică de antiacide,FOS066
+RAB796,Rabdomioliză,FOS066; MIO072; IZO120
+LEU797,Leucemie limfocitară cronică,PRO076; IMU182
+HIP798,Hiperinsulinism,FOS066
+HEP799,Heptită,GAM067
+TUM800,Tumori carcinoide,ACI079
+TUM801,Tumori ale suprarenalelor,CET080
+TUM802,Tumori ale ovarelor,CET080
+TUM803,Tumori ale testiculelor secretante de testosteron/estrogen,CET080
+TUM804,Tumori secretante de ACTH ectopic,HID084
+POS805,Postinfarct miocardic,ANT095
+INS806,Insuficiență hipotalamică,TIR090; TIR091; TRI161; TIR190
+ADM807,Administrare de insulină în doze excesive,INS087
+DIA808,Diabet insulinonecesitant,ANT094
+ALE809,Alergie la insulină,ANT094
+MAL810,Maldigestie,GLI068
+DIA811,Diabet gestațional,GLI068
+INT812,Intoxicație cu mercur,GLI069; BET227
+DEF813,Defecte ereditare de metabolizare a galactozei,GLI069
+DEF814,Defecte ereditare de metabolizare a fructozei,GLI069
+DEF815,Defecte ereditare de metabolizare a pentozei,GLI069
+DEF816,Deficit de folați,HOM070
+CIS817,Cistinurie,HOM070
+HTA818,HTA,MIC071; PEP135
+NEF819,Nefropatie,MIC071
+HEM820,Hematurie,MIC071
+HEM821,Hemoglobinurie,MIC071
+HEM822,Hemoglobinurie paroxistică,ANT098
+MIO823,Mioglobinurie,MIC071
+PRE824,Prezență de anticorpi anti-mioglobină,MIO072
+MIA825,Miastenia gravis oculară,ANT099
+SIN826,Sindrom miastenic Lambert-Eaton,ANT099
+ISC827,Ischemie musculară,MIO072
+HIP828,Hipertermie malignă,MIO072; IZO120
+TER829,Terapie trombolitică,MIO072
+HEP830,Hepatită autoimună,ANT093; ANT166
+HEP831,Hepatită acută vitală,ANT093
+HEM832,Hemoragie gastrointestinală,AMO059
+HEM833,Hemoragie a suprarenalelor,HID084
+HIP834,Hiperventilație,OXI074; GAZ127
+HIP835,Hipoxie,OXI074; DIS108
+AFE836,Afecțiuni pulmonare cronice,OXI074; APO114
+AFE837,Afecțiuni pulmonare severe,OXI074
+INS838,Insuficiență ventilatorie,OXI074
+APO839,Aport scăzut de Na,SOD077
+INS840,Insuficiență corticosuprarenală,SOD077
+SEC841,Secreție inadecvată de ADH,SOD077; HOR154
+DEP842,Depresie,ACI079; TES261
+MIG843,Migrenă,ACI079
+BOA844,Boala Hartnup,ACI079
+MAL845,Malabsorbție intestinală,ACI079
+BOA846,Boala Whipple,ACI079; TES150
+SPR847 ,Sprue tropical,
+MAS848,Mastocitoză,ACI079
+FEN849,Fenilcetonurie,ACI079
+REZ850,Rezecție de intestin subțire,ACI079
+HIP851,Hiperplazie suprarenală congenitală,CET080; ACT256; AND259; AND259; COR152
+HIP852,Hiperplazie de celule G,GAS082
+HIP853,Hiperplazie suprarenală,HID084; TES160; TES242; TES242
+ADM854,Administrare de ACTH,CET080
+MIX855,Mixedem,CET080; IND086; TIR090; TIR091; ANT092; TRI161; ANT170; TES149
+ASP856,Aspirație gastrică,CON064
+SIN857,Sindrom Klinefelter,CET080; TES242
+TOX858,Tirotoxicoză,CET080; ANT097; ANT170
+INF859,Infecție severă,CET080; CET080
+AFE860,Afecțiuni cronice,CET080
+SIN861,Sindrom Stein-Leventhal,CET080
+MIE862,Mielodisplazie,ERI081
+CHI863,Chimioterapie,ERI081
+SID864,SIDA,ERI081; ANT098; ELE179; ELE180; VIR214; BET227
+FEO865,Feocromocitrom,ERI081; GLU083
+NEO866,Neoplasm renal,ERI081
+NEO867,Neoplasm suprarenalian,ERI081; TES261; COR152
+VAG868,Vagotomie,GAS082
+CAN869,Cancer gastric,GAS082; ANT092; MAR230
+STE870,Stenoză pilorică,GAS082
+DEF871,Deficit de glucagon idiopatic,GLU083
+POS872,Postpancreatotomie,GLU083
+HIP873,Hiperglucagonemie familială,GLU083
+CET874,Cetoacidoză etanolică,SUM141
+HIP875,Hipoglicemie acută,GLU083
+HIP876,Hiperlipidemie,GLU083; COL0117
+HIP877,Hiperlipoproteinemie tip III/IV,GLU083
+SIN878,Sindrom andrenogenital,HID084; HOR153
+CRE879,Cretinism,IND086; TIR090; TIR091; TRI161
+INF880,Infarct a suprarenalelor,HID084
+AFE881,Afectare autoimuna a suprarenalelor,HID084
+DEF882,Deficit enzimatic congenital,HID084
+COR883,Corticoterapie,HID084; ACT256
+ADE884,Adenom de suprarenale,HID084
+CAR885,Carcinom de suprarenale,HID084
+NAN886,Nanism hipofizar,HOR085
+DEF887,Deficit de hormon de creștere,HOR085; MAR271; MAR274; MAR275
+HIP888,Hipoglicemie,HOR085
+HIP889,Hipotiroidie,IND086; APO114; APO116; IZO120; TRI161; ANT170; MAR271; MAR274; MAR275; SID110; COR152
+DEF890,Deficit de iod,IND086; TIR090; TIR091; TRI161
+TIR891,Tiroidectomie,IND086; TRI161
+INS892,Insuficienșă hipotalamică,IND086
+BOA893,Boala Graves,IND086; TIR090; TIR091; TRI161; ANT172; IMU183; PAR155
+BOA894,Boala Plummer,IND086; TIR090; TIR091; TRI161
+ADE895,Adenom tiroidian toxic,IND086; TIR090; TIR091; TRI161
+TIR896,Tiroidită acută,IND086; TIR090; TIR091; TRI161
+STR897,Struma ovarii,IND086; TIR090; TIR091; TRI161
+INT898,Intoleranță la fructoză,INS087
+INT899,Intoleranță la galactoză,INS087
+BOL900,Boli hepatice severe,INS087
+CAN901,Cancer de sân,REC088; MAR273; MAR276; MAR277; MAR278; MAR279; MAR280; MAR281; MAR282; MAR283; MAR284; MAR285; MAR286
+CAN902,Cancer de uter,REC088
+MEL903,Melanom,REC088
+DEF904,Deficit de STH, 0
+INS905,Insuficiență tiroidiană,TIR090
+HIP906,Hipotiroidie în tratament cu T3,TIR090
+HIP907,Hipotiroidia în tratament cu T4,TIR090
+BOL908,Boli comsuptive,TIR091
+HIP909,Hiperproteinemie congenitală,TIR091; TRI161
+ULC910,Ulcer gastric,ANT092; HEL201
+TIR911,Tiroidită Hashimoto,ANT092; ANT097; ANT170; IMU183
+DIA912,Diabet juvenil,ANT092
+GRA913,Granulomatoză Wegener,ANT093; ELE179
+POL914,Poliarterită nodoasă,ANT093
+COL915,Colită ulceorasă,ANT093
+COL916,Colangită sclerozantă primitivă,ANT093
+VAS917,Vasculită Churg-Strauss,ANT093
+BOA918,Boala Crohn,ANT093; PRO184; TES150
+FAL919,Falsa hipoglicemie,ANT094; PEP156
+SIN920,Sindrom posttoracotomie,ANT095
+FEB921,Febră reumatică,ANT095
+INF922,Infecție streptococică,ANT095; ANT173
+BOA923,Boala Raynaud,ANT096
+SIN924,Sindrom Sjogren,ANT096; ANT169; CRI175; ELE179; FAC181; COM174
+NEO925,Neoplasm tiroidian,ANT097; ANT170
+PUR926,Purpură trombocitopenică posttransfuzională,ANT098
+PUR927,Purpură trombocitopenică idiopatică,ANT098
+TRO928,Trombocitopenie postmedicamentoasă,ANT098
+TRO929,Trombocitopenie neonatală,ANT098
+LEU930,Leucemie mieloidă acută,ANT098
+TIM931,Timom,ANT099
+AFE932,Afecțiune hepatică autoimună,ANT099
+SIN933,Sindrom CREST,ANT100; ANT167
+DEF934,Deficit congenital,PRO100; PRO102; FAC105; FAC107
+ADM935,Administrare de Warfarină,PRO100; PRO102; FAC104; FAC105; FAC107
+HEM936,Hemofilie A,FAC103
+HEM937,Hemofilie B,FAC104
+INF938,Inflamații acute,FAC103
+POS939,Posttrasnfuzional,DIS108
+SIN940,Sindrom de detresă respiratorie,DIS108
+AFE941,Afrecțiuni cardiace,DIS108
+AFE942,Afecțiuni pulmonare,DIS108
+DEF943,Deficit de piruvat kinază,DIS108
+TEN944,Tendință la siclemie (status heterozigot),HEM109
+SIC945,Siclemie (status homozigot),HEM109
+MAL946,Malabsorbția fierului,SID110
+SAR947,Sarcină (ultimul trimestru),SID110; SID110
+ANE948,Anemie feriptivă,SID110; SID110; SID110
+HIP949,Hipoproteinemie,ELE180; SID110
+CAN950,Cancer metastazat,PTT111
+ANE951,Anemie sideoblastică,SID110
+SUP952,Supraîncărcare cu fier,SID110
+ISC953,Ischemie tisulară,ACI112
+INT954,Intoxicație cu CO,ACI112; GAZ124; GAZ134
+INT955,Intoxicație cu alcool etilic,ACI112
+INT956,Intoxicație cu acetaminofen,ACI112
+INS957,Insuficiență respiratorie,ACI112; GAZ124; GAZ134
+EFO958,Efort fizic marcat,ACI112
+DEF959,Defecte metabolice ereditare,ACI112
+BOA960,Boală coronariană ischemică,APO113; APO114; APO116
+HIP961,Hipoalfaliopproteinemie familială,APO113
+BOA962,Boala Tangier,APO113; APO114
+ART963,Artrite,APO114; VIR217
+SCA964,Scădere ponderială,APO114
+ANE965,Anemie cronică,APO114
+HIP966,Hiperalfalipoproteinemie familială,APO113
+SCA967,Scădere ponderală,APO113; SUM141
+DIA968,Diabet,APO114; COL0117
+HIP969,Hiperlipoproteinemie tip IIa,APO114
+HIP970,Hiperlipoproteinemie tip IIb,APO114
+HIP971,Hiperlipoproteinemie tip IV,APO114; TES149
+HIP972,Hiperlipoproteinemie tip V,APO114
+RIS973,Risc înalt de boală coronariană,APO115
+ALC974,Alcoolism,APO116
+BOL975,Boli hepatocelulare cronice,APO116
+STE976,Stenoza arterelor cerebrale,APO116
+HIP977,Hipercolesterolemie familială,APO116
+DEF978,Deficit de estrogeni,APO116
+INT979,Intoxicație cu insecticide organofosforice,COL0117
+DEF980,Deficit congenital de pseudocolinesterază,COL0117
+RET981,Reticulocitoză,COL0118
+DEF982,Deficit congenital de colinesterază,COL0118
+INT983,Intoxicație cu organofosforice,COL0118
+POR984,Porfiria congenitală,COP118
+POR985,Porfiria dobândită,COP118
+INT986,Intoxicație cu benzen,COP118
+INT987,Intoxicașie cu tetraclourură de carbon,COP118
+AFE988,Afecțiuni cerebrale,CPK119
+AFE989,Afecțiuni ale mușchilor scheletici,CPK119
+ELE990,Electromiografie,IZO120
+BOL991,Boli SNC,IZO121
+ADE992,Adenocarcinom (în special pulmonar și de sân),IZO121
+ANE993,Anevrism cardiac operat,IZO121
+DEF994,Defibrilație cardiacă,IZO121
+MIO995,Miocardită,IZO121
+ARI996,Aritmii ventriculare,IZO121
+ISC997,Ischemie cardiacă,IZO121
+ESO998,Esofagită,DET123
+VAR999,Varicele esofagiene,DET123
+GAS000,Gastrită,DET123
+BOL001,Boli inflamatorii intestinale,DET123
+TUM002,Tumori benigne de tract digestiv,DET123
+TUM003,Tumori maligne de tract digestiv,DET123
+POL004,Polipi,DET123
+MAL005,Malformații arterovenoase,HGB001; HCT002; RBC003; WBC007; LIM009; ALB021; CAL027; FIB030; FOS032; HDL035; LDL037; MAG039; PRO041; TRI043; URE044; ACI045; FER049; PLA052; ALF058; CON064; CON064; FOS066; POT075; HOR085; APO114; APO116; COL0117; DET123; CAL188; BET234; PRO186; PRE157
+DIV006,Diverticuloză,DET123
+INT007,Intervenții chirurgicale recente în sfera digestivă,DET123
+HEM008,Hemobilie,DET123
+HEM009,Hemoroizi,DET123
+SAN010,Sângerări orofaringiene,DET123
+SAN011,Sângerări nazale,DET123
+ACI012,Acidoză respiratorie,SUM136; GAZ124; GAZ134
+HIP013,Hipocloremie,GAZ124; GAZ134
+ASP014,Aspirare nasogastrică de lungă durată,GAZ126; GAZ124; GAZ134
+DIU015,Diuretice cu acțiune rapidă,GAZ126; GAZ124; GAZ134
+AFE016,Afecțiuni pulmonare acute severe,GAZ124; GAZ134
+DUR017,Durere,GAZ124; GAZ134; GAZ125; GAZ132
+HIP018,Hipoxemie,GAZ125; GAZ132
+EMB019,Embolie pulmonară,GAZ125; GAZ132
+BPO020,BPOC,GAZ126; GAZ125; GAZ132
+SED021,Sedare excesivă,GAZ125; GAZ132
+CRA022,Craniotraumatisme,GAZ125; GAZ132
+SIN023,Sindrom Pickwick,GAZ125; GAZ132
+ASM024,Administrare de oxigen în exces la un pacient cu BPOC,GAZ125; GAZ132
+DIA025,Diaree cronică și severă,GAZ126
+ADM026,Administrare cronică de diuretice de ansă,GAZ126
+VAR027,Vărsături cronice,GAZ126
+CON028,Conținut scăzut de O2,GAZ127
+BRO029,Bronhospasm,GAZ127
+ATE030,Atelectazie,GAZ127
+PNE031,Pneumotorax,GAZ127
+EDE032,Edem pulmonar,GAZ127
+SIN033,Sindromul de detresă respiratorie al adultului,GAZ127
+BOA034,Boală pulmonară restrictivă,GAZ127
+DOP035,Dop de mucus,GAZ127
+DEF036,Defect septal atrival,GAZ127
+DEF037,Defect septal ventricular,GAZ127
+BOA038,Boală cardiacă congenitală,GAZ127
+AER039,Aer inspirat sărac în O2,GAZ127
+CON040,Conținut crescut de O2,GAZ127
+AER041,Aer inspirat bogat în O2,GAZ127
+HIP042,Hipoventilație accentuată,GAZ131
+ANE043,Anemie hemolitică autoimună,TES131; TES132
+INF044,Infecții cu Mycoplasma,TES131
+ANE045,Anemie hemolitică medicamentoasă,TES132
+ANE046,Anemie hemolitică postransfuzională,TES132
+INC047,Incopatibilitatea Rh maternofetală,TES132
+HPN048,HPN,TES133
+ANE049,Anemie diseritropoietică congenitală tip II,TES133
+ADM050,Administrarea de medicamente hepatotoxice,LEU134
+HVS051,HVS,PEP135
+SIN052,Sindrom Cushing,PEP135; TRI161; TES149
+HIP053,Hiperaldosteronism primar,PEP135; ALD257; ALD257; ALD257
+BOA054,Boala Kawasaki,PEP135
+ASP055,Aspirare nasogastrică,SUM136
+ADM056,Administrare de aminoglicozide,SUM136
+INF057,Infecție de tract urinar,SUM136; SUM142; SUM150; URO241
+HID058,Hidratare excesivă,SUM137
+HIP059,Hipotermie,SUM137
+TRA060,Transpirații profuze,SUM137
+GLI061,Glicoziurie,SUM137
+PRO062,Proteinurie,SUM137; SUM153
+UTI063,Utilizare de substanțe de contrast radiologic,SUM137
+FLU064,Flux sangvin renal scăzut,SUM137
+HIP065,Hipotensiune,SUM137
+TUM066,Tumori hipofizare,SUM137
+TRA067,Traumatisme hipofizare,SUM137
+SIN068,Sindrom de secreție inadecvată de ADH,SUM137
+GLO069,Glomeruloscleroză diabetică,SUM138; SUM140; SUM141
+HIP070,Hipertensiune arterială malignă,MCV004; ACI020; COL028; FIE031; FOS032; GGT033; GLI034; LDL037; LDL037; MAG039; TRI043; CON064; GAM067; SOD077; GAS082; HID084; TIR090; TIR091; ANT097; SUM149; SUM138; SUM140; SUM141; GLI068
+TRO071,Tromboză de venă renală,SUM138; SUM140; SUM141
+SIN072,Sindrom GoodPasture,SUM146; ANT165; SUM138; SUM140; SUM141
+INT073,Intoxicație cu metale grele,SUM138; SUM140; SUM141
+TUM074,Tumoră vezicală,SUM138; SUM140; SUM141
+INF075,Infecție urinară (posibil),SUM139; SUM140
+INA076,Inainiție,SUM141
+ANO077,Anorexie,SUM141
+DIE078,Dietă bogată în proteine,SUM141
+ADM079,Administrare de aspirină în doze mari,SUM141
+FEB080,Febră prelungită,SUM141
+STA081,Status postanestezic,SUM141
+CAL082,Calculi renali,SUM142; SUM144
+INF083,Infecție bacteriană de tract urinar,WBC007; ALF058; SUM143
+NEF084,Nefrită interstițială,SUM144
+NEC085,Necroză tubulară acută,SUM144; SUM150
+TUM086,Tumori renale,SUM144
+TRA087,Traumatisme renale,WBC007; NEU008; NUM013; FIB030; ASP060; FAC103; IZO120; SUM144; PRO184; EXA200; COM174
+CIS088,Cistită,SUM144
+PRO089,Prostatită,SUM144; FOS228; ANT270
+CAT090,Cateterizarea traumatică a vezicii urinare,SUM144
+END091,Endocardită bacteriană subacută,SUM146; FAC181
+VAS092,Vasculită,SUM146
+HIP093,Hipertensiune arterială malingă,SUM146
+PIE094,Pielonefrită acută,SUM147
+NEF095,Nefrită lupică,SUM147; ANT165; COM174
+REJ096,Rejecție de transplant renal,SUM149; SUM150; COM174
+EFO097,Efort fizic important,SUM150
+INT098,Intoxicație cronică cu plumb,SUM150
+INT099,Intoxicație cu etilenglicol,SUM152
+REJ100,Rejecție acută de alogrefă renală,SUM152
+EFO101,Efort,SUM153
+RAS102,Răspuns Somogyi la hipoglicemie,TES149
+ADM103,Administrare de diureitce,TES149
+INF104,Infecție,TES149
+GAS105,Gastroenterită virală,TES150
+SUP106,Suprapopulare bacteriană intestinală,TES150
+GIA107,Giardioză,TES150
+LAM108,Lambliază,TES150
+SCH109,Schistosomiază,TES150
+SIN110,Sindrom de intestin subțire,TES150
+SPR111,Sprue,TES150
+OBS112,Obstrucție limfatică,TES150
+ENT113,Enteropatie postiradiere,TES150
+SCL114,Sclerodermie,ANT167; FAC181; TES150
+HIP115,Hipreplazia celulelor C,CAL151
+CAN116,Cancer de medulară tiroidiană (parafolicular sau cu celule C),CAL151
+HIP117,Hiperparatiroidism primar,LIM009; CAL151
+HIP118,Hiperparatiroidism secundar,CAL151
+TIR119,Tiroidită,TIR190; COM175; CAL151
+CAN120,Cancer pulmonar cu celule mici,CAL151
+CAN121,Cancer mamar,FOS228; ANT254; MAR272; CAL151
+APU122,Apudoame,CAL151
+DIS123,Distrucție suprarenală,COR152
+INS124,Insuficiență suprarenală,COR152
+SIN125,Sindroame adrenogenitale,COR152
+HIS126,Histoplasmoză,COR152
+ADE127,Adenom suprarenal,TES159; COR152
+TUM128,Tumori ectopice secretante de ACTH,COR152
+INS129,Insuficiență suprarenală secundară,TES160; AND259; HOR153
+INS130,Insuficiență hipofizară secundară,HOR153
+INS131,Insuficiență hipofizară primară,HOR153
+ADE132,Adenom suprarenalian,HOR153
+CAR133,Carcinom suprarenalian,TES159; HOR153
+ADM134,Administrare de steroizi,ALD257; ALD257; ALD257; ALD257; ALD257; ALD257; HOR153
+SEC135,Secreție ectopică de ACTH,HOR153
+DIA136,Diabet insipid neurogen (central),HOR154
+REZ137,Rezecția glandei pituitare,HOR154
+HIP138,Hipervolemie,HOR154
+OSM139,Osmolalitate severă scăzută,HOR154
+DIA140,Diabet insipid nefrogen determinat de boli renale,HOR154
+POS141,Postoperator (zilele 1-3),HOR154
+POR142,Porfirie acută,HOR154
+MET143,Metastaze osoase,FOS228; MAR271; MAR274; MAR275; PAR155
+SIN144,Sindrom de lapte-alcalii,PAR155
+DIS145,Distrucția autoimună a glandei paratiroide,PAR155
+ABL146,Ablație chirurgicală a paratiroidelor,PAR155
+HIP147,Hipomagnezemie,ACI020; CAL027; FOS032; TRI043; CLO062; FOS066; GAS082; CAL188; FOS228; MAR271; MAR274; MAR275; AMI023; PAR155
+SIN148,Sindrom DiGeorge,PAR155
+HIP149,Hiperparatiroidism secundar adenomului glandei paratiroide,PAR155
+HIP150,Hiperparatiroidism secundar cancerului glandei paratiroide,PAR155
+SIN151,Sindrom paraneoplazic secretant de PTH,PAR155
+CAN152,Cancer pulmonar,MAR230; ANT254; MAR272; PAR155
+CAN153,Cancer renal,PAR155
+SIN154,Sindrom de malabsorbție,PAR155
+PAN155,Pancreatomie radicală,PEP156
+TRA156,Transplant de pancreas,PEP156
+AFE157,Afecțiuni renale cu pierdere de proteine,PRE157
+AFE158,Afecțiuni intestinale cu pierdere de proteine,PRE157
+DEF159,Deficit nutrițional de zinc,PRE157
+DEF160,Deficit de factor de creștere,SOM158
+NAN161,Nanism Laron,SOM158
+GHI162,GH inactiv,SOM158
+REZ163,Rezistență la somatomedine,SOM158
+PUB164,Pubertate întârziată,SOM158
+TUM165,Tumoră hipofizară,SOM158; TES242
+DEF166,Deficit nutrițional,SOM158
+AFE167,Afecțiuni cronice severe,SOM158
+PUB168,Pubertate precoce,SOM158
+INF169,Infarct la nivel suprarenal,TES159
+HEM170,Hemoragie la nivel suprarenal,TES159
+DEF171,Deficit enzimatic suprarenal congestional,TES159
+REZ172,Rezecția suprarenalelor,TES159
+TUM173,Tumoră producătoare de ACTH,TES159; AND259
+ADM174,Administrare cronică de corticosteroizi,TES159
+TUM175,Tumora producătoare de steroizi,TES159
+HIP176,Hiperplazie suprarenală bilaterală,TES159
+TUM177,Tumoră suprarenală,TES160; AND259
+TUM178,Tumoră ectopică,TES160
+TOX179,Toxicoză T3,TRI161
+AFE180,Afecțiuni asociate cu nivelele ridicate ale TBG,TRI161
+MIO181,Miozită autoimună,ANT163
+BOA182,Boală mixtă de țesut conjunctiv,ANT165
+LUP183,Lupus discoid,ANT165
+LUP184,Lupus medicamentos,ANT164
+INF185,Infecție HIV,VIR214; ANT164; IMU182
+TRO186,Tromboză,ANT164
+AVO187,Avort spontan recurent,ANT164
+SIF188,Sifilis,FAC181; TRE240; ANT164; ANT166
+GLO189,Glomerulonefrită autoimună,ANT165
+CIR190,Ciroză criptogenică,ANT166
+HEP191,Hepatită acută infecțioasă,ANT166
+HEP192,Hepatită cronică acută,ANT166
+COL193,Colestază indusă medicamentos,ANT166
+INF194,Infertilitate,ANT168
+OBS195,Obstrucția ductelor eferente la nivel testicular,ANT168
+VAS196,Vasectomie,ANT168
+LES197,LES cu AAN absenți,ANT169
+LUP198,Lupus neonatal,ANT169
+TIR199,Tiroidită limfocitară cronică,ANT170
+GLO200,Glomerulonefrită poststreptococică,ANT171; CRI175
+SPO201,Spondilita ankilozantă,ANT172
+SIN202,Sindrom Reiter,ANT172; PRO184
+ART203,Artrită cu Yersinia enterocolitica,ANT172
+ENT204,Enteropatia glutenică,ANT172
+DIA205,Diabet zaharat juvenil,ANT172
+HEP206,Hepatită cronică activă,ANT172; ALF253
+SCL207,Scleroză multiplă,ANT172
+MIA208,Miastenia gravis,ANT172
+GLO209,Glomerulonefrită acută,ANT173; COM175
+END210,Endocardită bacteriană,ANT173
+PIO211,Pioderma sreptococică,ANT173
+CRI212,Crioglobulinemie,COM174; COM176
+DEF213,Deficit ereditar,COM174
+INF214,Infecții vasculite,COM174
+BOL215,Boli cu complexe imune,COM174; COM175; COM176
+SEP216,Sepsis sever,COM174
+RAS217,Răspuns imun la faza acută,COM174
+INF218,Infarct reumatic acut,IZO121; PRO184; COM174; AMI023
+CAN219,Cancer,COM174; COM175
+GLO220,Glomerulonefrită membranoasă,COM175
+DEF221,Deficit de C3,COM175
+INF222,Infecție cronică,COM175
+ANO223,Anorexia nervosa,COM175
+REA224,Reacții de fază acută,COM175; COM176
+AMI225,Amilodioză,COM175
+PNE226,Pneumonie pneumococică,COM175
+AFE227,Afecțiuni reumatice,COM175
+ANG228,Angioedem ereditar,COM176
+ANG229,Angioedem dobândit,COM176
+SIN230,Sindrom lupus-like,COM176
+DEF231,Deficit ereditar de C4,GLI034; COM176
+AFE232,Afecțiuni hepatice,CRI175; COM176
+MAC233,Macroglubulinemie Waldenstrom,CRI175
+END234,Endocardită,CRI175
+CRI235,Crioglobulinemie primară (idiopatică),CRI175
+ATA236,Ataxie,ELE176
+TEL237,Telangiectazie,ELE176
+DEF238,Deficit congenital izolat,ELE176
+ADM239,Administrare de agenți imunosupresori,ELE176
+AGA240,Agamaglobulinemie,ELE178; ELE179; ELE180
+ASP241,Aspergiloză,ELE178
+PAR242,Parazitoză,ELE178
+SIN243,Sindrom Wiskott-Aldrich,ELE179
+ENT244,Enteropatie cu pierdere de proteine,ELE179
+ADM245,Administrare de medicamente imunosupresoare,ELE179; ELE180
+MIE246,Mielom multiplu non-IgG,ELE179; ELE180
+INF247,Infecții granulomatoase cronice,ELE179
+TBC248,TBC,ELE179
+REA249,Reacții de hiperimunizare,ELE179
+AFE250,Afecțiuni autoimune,ELE180
+BOL251,Boli hepatice cronice,ELE180
+INF252,Infecție virală cronică,FAC181
+IMU253,Imunodeficit congenital,IMU182
+TRA254,Transplant de organe,IMU182
+LIM255,Limfom cu limfocite B/T,IMU182
+EXO256,Exoftalmie malignă,IMU183
+ART257,Artrită,PRO184
+DEF258,Defecte genetice,MET189
+INT259,Intoxicații cu diferite substanțe,MET189
+HIP260,Hipotiroidie secundară,TIR190
+HIP261,Hipotiroidie primară,TIR190
+AGE262,Agenezie tiroidiană,TIR190
+CRE263,Cretinism congenital,TIR190
+ADM264,Administrare de agenți antitiroidieni,POT040; TIR190
+DER265,Dermatită,TES191; TES192
+RIN266,Rinită alergică,TES191; TES192
+ANG267,Angioedem,TES191; TES192
+ALE268,Alergie la alimente,TES191; TES192
+ALE269,Alergie la medicamente,TES191; TES192
+LEZ270,Lezarea miocardului,TRO193
+ANT271,Antrax,BAC194
+BOA272,Boala Lyme,BOR195
+INF273,Infecție cu Chlamydia,CHL197
+INF274,Infecție botulinică,CLO198
+COL275,Colita pseudomembranoasă cu C. difficile,CLO199
+MEN276,Meningită,EXA200
+ABC277,Abcese cerebrale,EXA200
+TRO278,Tromboflebită septică a sinusurilor venoase,EXA200
+GAS279,Gastrită acută,HEL201
+GAS280,Gastrită cronică,HEL201
+ULC281,Ulcer duodenal,HEL201
+CAR282,Carcinom gastric,HEL201
+BOA283,Boala legionarilor,LEG202
+STR284,Streptococi,EXU203; SEC208
+HAE285,Haemophilus,EXU203
+BOR286,Bordetella,EXU203
+COR287,Corynebacterium,EXU203
+NEI288,Neisseria,EXU203
+MYC289,Mycoplasma,EXU203
+CHL290,Chlamydia,EXU203
+TUB291,M. Tuberculosis,MYC204
+MIC292,Microbacterii atipice,MYC204
+URE293,Ureaplasma urealyticum,SEC205
+GAR294,Gardnerella vaginalis,SEC205
+TRI295,Trichomonas,SEC205; TRI225
+NEI296,Neissera gonorrhoeae,SEC205
+STA297,Staphylococcus aureus,SEC205; SEC207; SEC206
+TRE298,Treponema pallidus,SEC205
+HAE299,Haemophilus influenzae,SEC206
+STE300,Streptococcus pneumoniae,SEC206
+PSE301,Pseudomonas aeruginosa,SEC207; SEC206
+NEI302,Neissera gonococcus,SEC206
+ESC303,Escherichia coli,SEC207
+STR304,Streptococcus,SEC207
+STA305,Staphylococcus betahemolitic,SEC207
+PRO306,Proteus sp,SEC207
+STA307,Stafilococi,SEC208
+ENT308,Enterococi,SEC208
+BAC309,Bacili enterici Gram negativi,SEC208
+CLO310,Clostridium,SEC208
+PSE311,Pseudomonas,SEC208
+NOC312,Nocardia,SEC208
+CAN313,Candida,SEC208
+INF314,Infecție virală,CUL210
+INF315,Infecție cu CMV,VIR211
+INF316,Infecție SARS,VIR212
+LIM317,Limfom Burkitt,VIR213
+CAN318,Cancer nazofaringian,VIR213
+PUR319,Purtător cronic de EBV,VIR213
+INF320,Infecție cu EBV,VIR213
+INF321,Infecție activă,VIR264; VIR213
+INF322,Infecție cu HTLV,VIR215
+LEU323,Leucemie acută cu limfocite T,VIR215
+LEU324,Leucemie păroasă,VIR215
+PAR325,Parapareză spastică tropicală,VIR215
+INF326,Infecție cu HPV,VIR216
+ERI327,Eritem infecțios,VIR217
+SRT328,Srtragii,VIR217
+HID329,Hidrops fetal,VIR217
+AVO330,Avort spontan,VIR217
+ANE331,Anemie aplastică tranzitorie,VIR217
+ANE332,Anemie cronică la pacienți imunodeprimați,VIR217
+RAB333,Rabie,VIR218
+INF334,Infecție rujeolică activă,VIR219
+INF335,Infecție rujeolică anterioară,VIR219
+VAR336,Variolă,VIR220
+INF337,Infecție cu Echinococcus,ECH221
+PAR338,Paraziți intestinali,EXA222
+INF339,Infecție cu Strongyloides,STR223
+INF340,Infecție cu Toxoplasma,TOX224
+CAN341,Cancer de vezică urinară,ANT226; PRO255
+BOA342,Boală renală glomerulară,BET227
+REJ343,Reject de transplant renal,PRO184; BET227
+INF344,Infecții virale,BET227
+AFE345,Afecțiuni ale tubilor renali,BET227
+TOX346,Toxicitate renală indusă medicamentos,BET227
+INT347,Intoxicație cu cadmiu,BET227
+CAR348,Carcinom prostatic,FOS228
+HIP349,Hipertrofie benignă a prostatei,FOS228; ANT270
+MAN350,Manipulare recentă a prostatei,FOS228
+CAN351,Cancer osos,FOS228
+CRI352,Criză siclemică,FOS228
+TRO353,Trombocitoză,FOS228
+CAN354,Cancer mamar metastazat,MAR229
+CAN355,Cancer hepatobiliar,MAR230; ANT254
+CAN356,Cancer de colon,MAR230
+LIT357,Litiază biliară,MAR230
+MEN358,Meningită bacteriană,PRO184
+VAS359,Vasculite,PRO184
+REJ360,Reject de transplant medular,PRO184
+INS361,Insuficiență corticosuprarenală anterioară,NUM185
+INS362,Insuficiență hipofizară anterioară,NUM185
+HEM363,Hemoragie (după 3-4 zile),NUM185
+POS364,Postsplenectomie,NUM185
+FAZ365,Faza de recuperare a anemiei nutriționale,NUM185
+ADM366,Administrare de hormoni sexuali,PRO186
+DEF367,Deficit congenital de proteina C sau S,PRO186
+HIP368,Hipercoagulabilitate,MAG039; POT040; SOD042; CLO062; CON064; POT075; SOD077; GAZ126; PRO186; GAZ124; GAZ134
+TRO369,Trombembolie pulmonară,PRO186
+TRO370,Tromboză arterială,PRO186
+TRO371,Tromboză venoasă,PRO186
+NEC372,Necroză tisulară indusă de Warfarină,PRO186
+HEM373,Hemoliză necomplicată,BIL187
+ICT374,Icter hepatocelular,BIL187
+HEP375,Hepatită alcoolică,BIL187
+INS376,Insuficiențăn renală cronică,HEM231
+DIA377,Diabet zaharat prost controlat,HEM231
+SPL378,Splenectomie,HEM231
+HIP379,Hipercolesterolemie,BET234
+DEF380,Deficit imun secundar,GAM235
+AFE381,Afecțiuni genetice imune,GAM235
+CAN382,Cancer de col uterin,CIT236
+BOL383,Boli cu transmitere sexuală,CIT236
+INF384,Infecție cu papiloma virus (HPV),CIT236
+MOD385,Modificări inflamatorii reactive,CIT236
+INF386,Infecție fungică,CIT236
+INF387,Infecție parazitară,CIT236
+INF388,Infecție herpetică,CIT236
+ENT389,Enterocolita determinată de protozoare,COP237
+ENT390,Enterocolita determinată de bacterii,
+IDE391,Identifică cauza artritei,EXA238
+IDE392,Identifică cauza pericarditei,EXA238
+IDE393,Identifică cauza peritonitei,EXA238
+IDE394,Identifică cauza pleureziei,EXA238
+INF395,Infecție cu mycobacterii,TES239
+CRI396,Criptorhidie,TES242
+INS397,Insuficiență gonadală primară,TES242
+INS398,Insuficiență gonadală secundară,TES242
+ORH399,Orhidectomie,TES242
+SIN400,Sindrom Down,TES242
+PUB401,Pubertate precoce idiopatică,TES242
+TUM402,Tumoră corticosuprarenală,TES242; TES242
+TUM403,Tumoră testiculară,TES242; ALF253
+SIN404,Sindrom de rezistență la testosteron,TES242
+PIN405,Pinealom,TES242
+ENC406,Encefalită,TES242
+TUM407,Tumoră ovariană,TES242; ALF253
+TUM408,Tumoră trofoblastică,TES242
+OVA409,Ovare polichistice,MAR272; TES242
+HIR410,Hirsutism idiopatic,TES242
+HER411,Herpes,VIR243
+REZ412,"Rezultate trebuie evaluate în contextul altor informații clinice și epidemiologice, cunoscând tulipinile circulante de virusri gripale și apelând eventual la alte teste de laborator.",VIR244
+COR413,Corelarea rezultatelor testului cu istoricul clinic este esențială; un test negativ nu poate exculde infecția!,ASC245
+PEN414,Pentru rezultate ambigue se va repeta testul după 10-14 zile,CYP246
+DIA415,Diagnosticul se stabilește ținănd cont și de anamnează și leziunile cutanate. Identificarea parazitului permite descoperirea sursei infestării și adoptarea măsurilor de control adecvate,EXA247
+SER416,Seroconversia de la faza acută la covalescență este considerată o dovadă clară a infecției. În caz de complicații extraintestinale un titru poitiv de anticorpi poate indica ameobiaza chiar și dacă scaunele sunt negative.,ENT248
+PER417,"Permite identificarea paraziților intraeritocitari, dar nu poate fi utilizat ca metodă unică de diagnosticare a infecției",EXA249
+POT418,"Pot identifica chistele și, mai rar, trofozoiții de giardia.Dacă testul este negativ, dar suspiciunea de infecție este ridicaă,se va repeta testul.",GIA250
+INF419,Infecția cu tenii este ușor de diagnosticat dacă segmentele eliminate prin scaun au dimensiuni de circa 1.5-2cm lungime și 0.7cm lățime,TAE251
+UTI420,Utilizând ELISA se pot detecta coproantigenele chiar și în situațiile în care ouăle sau proglotele nu se excretă fecal,TAE251
+INF421,Infecție cu Toxocara canis,TOX252
+INF422,Infecție cu Toxocara cati,TOX252
+TES423,Testul se pozitivează la circa 4 săptămâni de la infectare.,TOX252
+TRI424,Trisomie 21 (Sindrom Down),ALF253
+SAR425,Sarcină oprită în evoluție,ALF253
+DEF426,Defecte de tub neural,ALF253
+ANE427,Anencefalie,ALF253
+ENC428,Encefalocel,ALF253
+MIE429,Mielomeningocel,ALF253
+SPI430,Spina Bifida,ALF253
+DEF431,Defecte ale peretelui abdominal,ALF253
+GAS432,Gastroschizis,ALF253
+OMF433,Omfalocel,ALF253
+SAR434,Sarcină multiplă,ALF253
+AVO435,Avort iminent,ALF253
+MAL436,Malformații congenitale fetale,ALF253
+MOA437,Moartea fătului,ALF253
+NEO438,Neoplasm hepatocelular,ALF253
+CAN439,Cancer al celulelor germinative,ALF253
+TUM440,Tumoră la stomac,ALF253
+TUM441,Tumoră la colon,ALF253
+TUM442,Tumoră la plămân,ALF253
+TUM443,Tumoră renală,ALF253
+TUM444,Tumoră mamară,ALF253
+NEC445,Necroză a celulelor hepatice,ALF253
+FUM446,Fumători,ANT254
+CAN447,Cancer gastrointestinal,ANT254
+CAN448,Cancer ovarian,ANT254; MAR272
+PRO449,Procese inflamatorii,ANT254
+PRO450,Procese infecțioase,ANT254
+COL451,Colită,ANT254
+DIV452,Diverticulită,ANT254
+SEM453,S-au semnalat cazuri de neoplasme ccolorectale metastazate cu nivele normale de CEA!,ANT254
+HIP454,Hiperaldosteronism primar (Sindrom Conn),VSH015; CLO063; ACT256
+HTA455,HTA esențială,ACT256
+HTA456,HTA malignă,ACT256
+HTA457,HTA renovasculară,ACT256
+HIP458,Hiperaldosteronism secundar,ACT256; ALD257; ALD257; ALD257
+HIP459,Hiperkalemie,ACT256; ALD257; ALD257; ALD257
+TUM460,Tumori renale secretante de renină,ACT256
+DEF461,Deficit de aldosteron,ALD257; ALD257; ALD257; ALD257; ALD257; ALD257
+DEF462,Deficit de renină,ALD257; ALD257; ALD257; ALD257; ALD257; ALD257
+ADM463,Administrare de antihipertensive,TIM018; ALD257; ALD257; ALD257; ALD257; ALD257; ALD257
+DIE464,Dietă bogată în sodiiu,ALD257; ALD257; ALD257; ALD257; ALD257; ALD257
+HIP465,Hipernatremie,ALD257; ALD257; ALD257; ALD257; ALD257; ALD257
+HIP466,Hipokaliemie,ALD257; ALD257; ALD257; ALD257; ALD257; ALD257
+TOX467,Toxemia de sarcină,ALD257; ALD257; ALD257; ALD257; ALD257; ALD257
+HIP468,Hiponatremie,ALD257; ALD257; ALD257
+ADM469,Administrare de diuretice în exces,ALD257; ALD257; ALD257
+ADM470,Administrare de laxative în exces,ALD257; ALD257; ALD257
+CIR471,Ciroză cu ascită,ALD257; ALD257; ALD257
+ANA472,Anasacră,ALD257; ALD257; ALD257
+CON473,Contraceptive orale,ALD257; ALD257; ALD257
+ADE474,Adenom suprarenal secretant de aldosteron (boala Conn),TES261; ALD257; ALD257; ALD257
+HIP475,Hiperplazie corticosuprarenală nodulară,ALD257; ALD257; ALD257
+ASP476,Aspermie: fără spermatozoizi,ANA258
+OLI477,Oligospermie: <20 mil/mL,ANA258
+ANA478,"Analiza lichidului spermatic poate detecta infertilitatea, vasectomia, orhita, artrofia testiculară sau insuficiența testiculară",ANA258
+INS479,Insuficiență gonadică,AND259
+INS480,Insuficiență suprarenală primară,AND259
+SIN481,Sindrom Cushig (unele forme),AND259
+SIN482,Sindrom Stein-Leventhal (ovar polichistic),AND259
+HIR483,Hirutism,AND259
+VIR484,Virilizare (femei cu voce ridicată și sterilitate),AND259
+SIN485,Sindromul Cushing,TES261
+NEO486,Neoplasme ectopice producătoare de ACTH,TES261
+HIP487,Hiperplazia suprarenală bilaterală,TES261
+CUL488,"Cultura poate evidenția prezența Streptococcus pneumoniae, Haemophilus influenzae, Staphylococcus, Klebsiella pneumoniae, Pseudomonas aeruginosa, Mycoplasma tuberculosis etc.",EXA262
+TES489,"Testul evidențiază bacteriemia. Teoretic orice microorganism, inclusiv flora normală, poate determina bacteriemie",HEM263
+HEM490,3 hemoculturi negative în lipsa unui tratament antibiotic sunt de obicei suficiente pentru a exclude prezența bacteriemiei (uneori chiar și o singură hemocultură negativă),HEM263
+HEM491,Hemoculturile negative nu exclud însăprezența infecției: rezultate fals-negative pot apărea când germenii patogeni nu pot crește pe mediul cultivat.,HEM263
+CUL492,O cultură pozitivă nu semnifică neapărat bacteriemie deoarece rezultate fals-pozitive pot apare în cazul contaminării probei.,HEM263
+IZO493,"Izolarea bacililor Gram-negativi, anaerobilor și fungilor trebuie semnalizată ca fiind patogenă, până la proba contrarie,",HEM263
+INF494,Infecție absentă (trecut prin boală),VIR264
+FAR495,Fără imunitate (nu a trecut prin boală),VIR264
+IMU496,Imunitate prezentă (trecut prin boală),VIR264
+VAR497,"În varicelă, răspunsul IgM este identificat în ziua 6-7 și atinge peak-ul în ziua 14.",VIR265
+HER498,"În herpes zoster, IgM devine detectabil din ziua 8-10 și atinge peak-ul în ziua 18-19.",VIR265
+ANT499,Anticorpii tip IgG pot fi detectați la 9zile de la apariția erupției cutanate.,VIR265
+INT500,"Întrucât peakul IgG apare în medie la 66zile (în cazul varicelei) și respectiv 27zile, se pot măsura nivelele de anticorpi la 2luni de la debut, diferențiind astffel infecția primară de reactivare.",VIR265
+LAC501,La circa 10 zile de la debutul simptomatologiei majoritatea pacienților prezintă nivele detectabile de anticorpi tip IgM.,VIR267
+CRE502,Creșterea de peste 4ori a titrurilor anticorpilor tip IgM în covalescență (după circa 1 lună) confirmă infecția).,VIR267
+SER503,Serologie: +moment de apariție/dispariție,VIR268
+ANT504,Anticorpi antiVHA tip IgM: 4-6 săpt/3-4luni,VIR268
+ANT505,Anticorpi antiVHA tip IgG: 8-12 săpt/10ani,VIR268
+AGH506,Ag Hbe: 1-3 săpt/6-8 săpt,VIR268
+ACH507,Ac Hbe: 4-6săpt/ 4-6ani,VIR268
+AGH508,Ag HBs: 4-12 săpt/ 1-3luni,VIR268
+ACH509,Ac HBs: 3-10luni/ 6-10ani,VIR268
+ANT510,Anticorpi anti-VHBc tip IgM: 2-12săpt/ 3-6luni,VIR268
+ANT511,Anticorpi antiVHBc (total): 3-12 săpt/ întreaga viață,VIR268
+ANT512,Anticorpi antiVHC tip IgG: 3-4luni/ 2ani,VIR268
+AGV513,Ag VHD: 1-3zile/ 3-5zile,VIR268
+ANT514,Anticorpi anti-VHD tip IgM: 10zile/ 1-3luni,VIR268
+ANT515,Anticorpi anti-VHD (total),VIR268
+INF516,Infecție acută cu VHA,VIR268
+EXP517,Expunerea anterioară la VHA/covalescență,VIR268
+INF518,Infecție acută cu VHB,VIR268
+VIN519,Vindecare,VIR268
+INF520,Infecție anterioară cu VHB / imunitate,VIR268
+INF521,Infecție acută cu VHB,VIR268
+INF522,Infecție anterioară cu VHB/covalescență,VIR268
+INF523,Infecție anterioară cu VHC,VIR268
+INF524,Infecție acută cu VHD,VIR268
+INF525,Infecție cronică cu VHD,VIR268
+SUS526,Susținerea diagnosticului de infecție cu trichinella în timpul fazei intestinale este dificil de realizat și doar ocazional pot fi identificate larve în scaun sau lichid duodenal.,TRI269
+FAZ527,În faza extraintestinală se pot detecta larve prin biopsii musculare la microscop sau prin PCR.,TRI269
+TIT528,Titrurile de anticorpi IgM se pozitivează la pacienții imunocompetenți la cel puțin o săptămână de la infectare; ating o valoare maximă la 2-4 săptămâni și revin la nivelele nedetectabile în câteva săptămâni.,TRI269
+VOL529,Volumul prostatei condiționează nivelele PSA: PSA prezis=0.12 x volumul prostatei (cm3) măsurat ecografic,ANT270
+PSA530,PSA liber/ PSA complexat < 10%Z sugerează cancerul de prostată,ANT270
+PSA531,PSA liber <25% se asociază frecvent cu cancerul de prostată,ANT270
+HIP532,Hipopartiroidism,MAR271; MAR274; MAR275
+OST533,Osteoporoză,MAR271; MAR274; MAR275
+TER534,Terapie cortizonică,MAR271; MAR274; MAR275
+TUM535,Tumori osoase,MAR271; MAR274; MAR275
+OST536,Osteodistrofie renală,MAR271; MAR274; MAR275
+END537,Endometrioză,MAR272
+CHI538,Chiste ovariene,MAR272
+BOA539,Boală inflamatorie pelvină,MAR272
+CAR540,Carcinomatoză peritoneală,MAR272
+NIV541,Nivelele >65 UI/mL asociate cu mase tumorale în pelvis indică peste 90% din cazuri un neoplasm.,MAR272
+NIV542,Nivele crescute pot anunța recidiva cancerului ovarian cu circa 2-7luni înaintea apariției,MAR272
+HEM543,Hemofilia,FAC106
