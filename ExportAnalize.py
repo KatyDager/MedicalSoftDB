@@ -9,7 +9,7 @@ Created on Thu Nov 18 10:43:20 2021
 # import firebase_admin
 # from firebase_admin import credentials, firestore
 
-# cred = credentials.Certificate("D:/Facultate/Gman/analize.json")
+# cred = credentials.Certificate("D:/Facultate/analize.json")
 
 # firebase_admin.initialize_app(cred)
 
@@ -78,7 +78,7 @@ Created on Thu Nov 18 10:43:20 2021
 # import firebase_admin
 # from firebase_admin import credentials, firestore
 
-# cred = credentials.Certificate("D:/Facultate/Gman/analize.json")
+# cred = credentials.Certificate("D:/Facultate/analize.json")
 
 # firebase_admin.initialize_app(cred)
 
